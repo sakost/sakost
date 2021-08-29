@@ -63,6 +63,27 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
+### Projects
+
+- <details>
+    <summary>Tinkoff Fintech courses</summary>
+Some descriptions in russian. Projects have written on Python. 
+
+All projects have linters, mypy checks and unit-tests coverage 90%. 
+
+1. [Battleship game][tinkoff_h1] at console
+2. [grep][tinkoff_h2] analogue
+3. [Todo list][tinkoff_h3] web application on flask(with sqlalchemy)
+4. [Crypto exchange][tinkoff_h4] web application for selling and buying crypto; written with flask(using sqlalchemy and pydantic)
+5. [Film review service][tinkoff_h5]. Written with fastapi, sqlalchemy and flask_admin
+6. [Image resizer][tinkoff_h6]. Written for practicing at using redis.
+7. [Habr article parser][tinkoff_h7]. Written for practicing at multithreading.
+8. [Async chat][tinkoff_h8] - chat applications that allows to chat with persons asynchronously. fastapi, redis and websockets was used
+</details>
+
+- Other project descriptions coming soon...
+
+
 [telegram_link]: https://t.me/sakost
 [telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
 
@@ -77,6 +98,15 @@
 
 [leetcode_link]: https://leetcode.com/sakost
 [leetcode_badge]: https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black "Leetcode profile"
+
+[tinkoff_h1]: https://github.com/sakost/tinkoff_fintech/tree/master/homework1#battleship
+[tinkoff_h2]: https://github.com/sakost/tinkoff_fintech/tree/master/homework2#mygrep
+[tinkoff_h3]: https://github.com/sakost/tinkoff_fintech/tree/master/homework3#todo-list
+[tinkoff_h4]: https://github.com/sakost/tinkoff_fintech/tree/master/homework4#crypto-exchange
+[tinkoff_h5]: https://github.com/sakost/tinkoff_fintech/tree/master/homework5#films
+[tinkoff_h6]: https://github.com/sakost/tinkoff_fintech/tree/master/homework6#image-resizer
+[tinkoff_h7]: https://github.com/sakost/tinkoff_fintech/tree/master/homework7
+[tinkoff_h8]: https://github.com/sakost/tinkoff_fintech/tree/master/homework8#async-chat
 
 [comment]: <> ([codeforces_link]: https://codeforces.com/sakost)
 
