@@ -65,9 +65,11 @@
 
 ### Projects
 
-- <details>
+<ul>
+<li><details>
     <summary>Tinkoff Fintech courses</summary>
   
+<!--START_SECTION:tinkoff_projects-->
 Some descriptions in russian. Projects have written on Python. 
 
 All projects have linters, mypy checks and unit-tests coverage 90%. 
@@ -80,10 +82,13 @@ All projects have linters, mypy checks and unit-tests coverage 90%.
 6. [Image resizer][tinkoff_h6]. Written for practicing at using redis.
 7. [Habr article parser][tinkoff_h7]. Written for practicing at multithreading.
 8. [Async chat][tinkoff_h8] - chat applications that allows to chat with persons asynchronously. fastapi, redis and websockets was used
+<!--END_SECTION:tinkoff_projects-->
+
 </details>
+</li>
 
-- Other project descriptions coming soon...
-
+<li>Other project descriptions coming soon...</li>
+</ul>
 
 [telegram_link]: https://t.me/sakost
 [telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
