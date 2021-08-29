@@ -13,30 +13,37 @@
 
 ## I'm a student, enthusiast and developer
 
-- 🕸  I'm in search of good people to talk about everything(in particular about programming)
-- 📚  I really like to study and learn something interesting, and I do it every chance I get
-- 👉👈  Some useless fact about me: I'm a bit shy
-- 🙇‍♂️  I'm currently studying machine learning(deep learning & computer vision) and very like it
-- 🤔  Any questions? [Contact with me](#hi-there-im-kostya---aka-sakost)
+- 🕸 I'm in search of good people to talk about everything(in particular about programming)
+- 📚 I really like to study and learn something interesting, and I don't miss a single chance to do it
+- 👉👈 Some useless fact about me: I'm a bit shy
+- 🙇‍♂️ I'm currently studying machine learning(deep learning & computer vision) and I really like it
+- 🤔 Any questions? [Contact with me](#hi-there-im-kostya---aka-sakost)
 
 
 ### Languages and Tools
 #### Currently in use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-000000?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-blue?style=for-the-badge&logo=pytest&logoColor=white)
+![Mypy](https://img.shields.io/badge/mypy-green?style=for-the-badge)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![k8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit)
 
+![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 #### Familiar with
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -45,7 +52,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-#### Learn
+#### Currently learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
