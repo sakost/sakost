@@ -13,11 +13,11 @@
 
 ## I'm a student, enthusiast and developer
 
-- 🕸 I'm in search of good people to talk about everything(in particular about programming)
-- 📚 I really like to study and learn something interesting, and I do it every chance I get
-- 👉👈 Some useless fact about me: I'm a bit shy
-- 🙇‍♂️ I'm currently studying machine learning(deep learning & computer vision) and very like it
-- 🤔 Any questions? [Contact with me](#hi-there-im-kostya---aka-sakost)
+- 🕸  I'm in search of good people to talk about everything(in particular about programming)
+- 📚  I really like to study and learn something interesting, and I do it every chance I get
+- 👉👈  Some useless fact about me: I'm a bit shy
+- 🙇‍♂️  I'm currently studying machine learning(deep learning & computer vision) and very like it
+- 🤔  Any questions? [Contact with me](#hi-there-im-kostya---aka-sakost)
 
 
 ### Languages and Tools
