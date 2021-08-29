@@ -71,7 +71,7 @@
 [linkedin_link]: https://linkedin.com/in/sakost
 [linkedin_badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin profile"
 
-[stackoverflow_link]: https://stackoverflow.com/sakost
+[stackoverflow_link]: https://stackoverflow.com/users/8506506/mr-morgan
 [stackoverflow_badge]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white "Stackoverflow profile"
 
 [leetcode_link]: https://leetcode.com/sakost
