@@ -67,6 +67,7 @@
 
 - <details>
     <summary>Tinkoff Fintech courses</summary>
+  
 Some descriptions in russian. Projects have written on Python. 
 
 All projects have linters, mypy checks and unit-tests coverage 90%. 
