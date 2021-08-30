@@ -14,7 +14,7 @@
 ## I'm a student, enthusiast and developer
 
 - 🕸 I'm in search of good people to talk about everything(in particular about programming)
-- 📚 I really like to study and learn something interesting, and I don't miss a single chance to do it
+- 📚 I really like to study and to learn something interesting, and I don't miss a single chance to do it
 - 👉👈 Some useless fact about me: I'm a bit shy
 - 🙇‍♂️ I'm currently studying machine learning(deep learning & computer vision) and I really like it
 - 🤔 Any questions? [Contact with me](#hi-there-im-kostya---aka-sakost)
@@ -74,14 +74,14 @@ Some descriptions in russian. Projects have written on Python.
 
 All projects have linters, mypy checks and unit-tests coverage 90%. 
 
-1. [Battleship game][tinkoff_h1] at console
-2. [grep][tinkoff_h2] analogue
-3. [Todo list][tinkoff_h3] web application on flask(with sqlalchemy)
-4. [Crypto exchange][tinkoff_h4] web application for selling and buying crypto; written with flask(using sqlalchemy and pydantic)
-5. [Film review service][tinkoff_h5]. Written with fastapi, sqlalchemy and flask_admin
+1. [Battleship game][tinkoff_h1] at console.
+2. [grep][tinkoff_h2] analogue.
+3. [Todo list][tinkoff_h3] web application on flask(with sqlalchemy).
+4. [Crypto exchange][tinkoff_h4] web application for selling and buying crypto; written with flask(using sqlalchemy and pydantic).
+5. [Film review service][tinkoff_h5]. Written with fastapi, sqlalchemy and flask_admin.
 6. [Image resizer][tinkoff_h6]. Written for practicing at using redis.
 7. [Habr article parser][tinkoff_h7]. Written for practicing at multithreading.
-8. [Async chat][tinkoff_h8] - chat applications that allows to chat with persons asynchronously. fastapi, redis and websockets was used
+8. [Async chat][tinkoff_h8] - chat applications that allows to chat with persons asynchronously. fastapi, redis and websockets was used.
 <!--END_SECTION:tinkoff_projects-->
 
 </details>
