@@ -11,6 +11,8 @@
 
 [comment]: <> ([![Codeforces profile][codeforces_badge]][codeforces_link])
 
+> Disclaimer: This information pretty outdated, check my linkedin for more fresh info about me ^
+
 ## I'm a student, enthusiast and developer
 
 - 🕸 I'm in search of good people to talk about everything(in particular about programming)
