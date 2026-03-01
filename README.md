@@ -25,4 +25,5 @@ Independent software engineer.
 
 [**dsp-bp**](https://github.com/sakost/dsp-bp) — Dyson Sphere Program blueprint parser & writer (Rust)
 
-[**zenmoney-api**](https://github.com/sakost/zenmoney-api) — sync/async Zenmoney API client (Python)
+[**zenmoney-rs**](https://github.com/sakost/zenmoney-rs) — Rust client library for the ZenMoney API
+&nbsp;&bull;&nbsp; [zenmoney-mcp](https://github.com/sakost/zenmoney-mcp) — MCP server wrapping the ZenMoney API (Rust)
