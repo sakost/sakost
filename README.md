@@ -15,15 +15,15 @@ Independent software engineer.
 
 ### What I'm building
 
-[**betcode**](https://github.com/sakost/betcode) — Claude Code wrapper that simplifies the UI/UX and adds a custom management layer (Rust)
+[**betcode**](https://github.com/sakost/betcode) — Claude Code wrapper that simplifies the UI/UX and adds a custom management layer (Rust)<br>
 &nbsp;&bull;&nbsp; [betcode-app](https://github.com/sakost/betcode-app) — companion mobile app (Dart)
 
-[**nixos**](https://github.com/sakost/nixos) — my NixOS desktop config
+[**nixos**](https://github.com/sakost/nixos) — my NixOS desktop config<br>
 &nbsp;&bull;&nbsp; [nix-yandex-browser](https://github.com/sakost/nix-yandex-browser) — Yandex Browser packaged for Nix
 
 🔒 **crypto-data-platform** — real-time crypto market data collection, ML-driven backtesting & trading engine (Python, Rust, TimescaleDB, K8s) (private project)
 
 [**dsp-bp**](https://github.com/sakost/dsp-bp) — Dyson Sphere Program blueprint parser & writer (Rust)
 
-[**zenmoney-rs**](https://github.com/sakost/zenmoney-rs) — Rust client library for the ZenMoney API
+[**zenmoney-rs**](https://github.com/sakost/zenmoney-rs) — Rust client library for the ZenMoney API<br>
 &nbsp;&bull;&nbsp; [zenmoney-mcp](https://github.com/sakost/zenmoney-mcp) — MCP server wrapping the ZenMoney API (Rust)
