@@ -18,6 +18,8 @@ Independent software engineer.
 [**betcode**](https://github.com/sakost/betcode) — Claude Code wrapper that simplifies the UI/UX and adds a custom management layer (Rust)<br>
 &nbsp;&bull;&nbsp; [betcode-app](https://github.com/sakost/betcode-app) — companion mobile app (Dart)
 
+[**fest**](https://github.com/sakost/fest) — blazing-fast mutation testing for Python (Rust)
+
 [**nixos**](https://github.com/sakost/nixos) — my NixOS desktop config<br>
 &nbsp;&bull;&nbsp; [nix-yandex-browser](https://github.com/sakost/nix-yandex-browser) — Yandex Browser packaged for Nix
 
